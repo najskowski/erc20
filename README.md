@@ -13,8 +13,8 @@
 1. Clone the repo:
 
    ```bash
-   git clone <my-repo-url>
-   cd dawgcoin
+   git clone https://github.com/najskowski/erc20
+   cd erc20
    ```
 
 2. Install stuff:
