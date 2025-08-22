@@ -2,7 +2,7 @@
 
 ## What It Does
 
-- **ERC20 Standard**: All the usual stuff—`transfer`, `approve`, `balanceOf`, etc.
+- **ERC20 Standard**
 - **Burn Fee**: Burns 1% of every transfer (min 0.01 tokens) to reduce total supply.
 - **Pause Feature**: Owner can pause/unpause transfers for control.
 - **Safe Math**: Uses `SafeMath` to avoid overflow/underflow bugs.
@@ -17,7 +17,7 @@
    cd erc20
    ```
 
-2. Install stuff:
+2. Install dependencies:
 
    ```bash
    pnpm i
